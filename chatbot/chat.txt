@@ -1,0 +1,38 @@
+Quais os dias de funcionamento?
+Funcionamos de segunda à sexta, de 8 às 19h
+Qual o número de contato?
+(numero)
+Qual o seu nome?
+Meu nome é Greenby
+Oi
+Olá, por favor diga qual sua dúvida
+Tudo bom?
+Sim, e com você? Qual sua dúvida?
+Qual a proposta da empresa?
+O desenvolvimento sustentável
+Contato
+(Numero)
+site
+(site)
+Onde posso ver as vagas?
+(encaminha)
+vagas
+(encaminha)
+emprego
+(encaminha)
+que aparelhos vocês produzem?
+produzimos diversos dispositivos IOT e equipamentos de redes
+dispositivos
+produzimos diversos dispositivos IOT e equipamentos de redes
+tudo bom?
+tudo bem, qual sua duvida?
+proposta empresarial
+O desenvolvimento sustentável
+Empresas parceiras
+Empresa 1, empresa 2, empresa x, empresa y, empresa z
+parcerias
+Empresa 1, empresa 2, empresa x, empresa y, empresa z
+Qual o contato da empresa?
+(contato)
+Email da empresa
+(email)
